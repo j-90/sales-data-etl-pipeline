@@ -1,0 +1,109 @@
+id_empregado;nome;cargo;idade
+1;Júlia Oliveira;Vendedor;
+2;Diogo Vieira;;49.0
+3;Sr. Rodrigo das Neves;Assistente;56.0
+4;Isis Castro;Gerente;49.0
+5;Leandro Azevedo;Vendedor;21.0
+6;Sra. Ana Julia Moreira;Vendedor;47.0
+7;Gustavo Jesus;Vendedor;54.0
+8;Ana Luiza Martins;Assistente;40.0
+9;;Gerente;56.0
+10;Emanuel Moura;Assistente;62.0
+10;Emanuel Moura;Assistente;62.0
+11;Ana Júlia da Paz;Vendedor;32.0
+12;Miguel Ferreira;;
+13;Nathan da Paz;Assistente;60.0
+14;Sra. Joana Gomes;Vendedor;46.0
+15;Nicolas da Rosa;Vendedor;53.0
+15;Nicolas da Rosa;Vendedor;53.0
+16;Vicente Viana;Vendedor;30.0
+17;Sofia Sales;Vendedor;49.0
+18;;Gerente;24.0
+19;Ana Carolina Teixeira;Gerente;39.0
+20;Maria Julia da Conceição;Vendedor;45.0
+21;Evelyn Araújo;Gerente;19.0
+22;João Pedro Barbosa;Vendedor;59.0
+23;Raul Martins;Vendedor;
+24;Luiza Nascimento;Vendedor;62.0
+25;Lavínia Costela;Gerente;23.0
+26;Fernanda das Neves;Assistente;45.0
+27;;Vendedor;45.0
+28;Luana da Mota;Gerente;61.0
+28;Luana da Mota;Gerente;61.0
+29;Maria Alice Cavalcanti;Gerente;61.0
+30;Ian Moreira;Vendedor;37.0
+30;Ian Moreira;Vendedor;37.0
+31;Thales Castro;Gerente;47.0
+32;Luiz Miguel Gomes;Vendedor;28.0
+33;Guilherme Gomes;Vendedor;45.0
+34;Matheus Duarte;;
+34;Matheus Duarte;;
+35;Dr. Luiz Fernando da Paz;;42.0
+36;;Assistente;56.0
+37;Erick Santos;Vendedor;50.0
+38;Dra. Olivia Teixeira;Vendedor;18.0
+39;Henrique Moura;Gerente;44.0
+40;Francisco Martins;Gerente;30.0
+41;Stella Sales;Vendedor;58.0
+42;Maysa da Cruz;Gerente;20.0
+43;Samuel da Rocha;Vendedor;56.0
+44;Augusto Moura;;23.0
+45;;Vendedor;
+46;Benjamin Moura;Gerente;25.0
+47;Lara Ribeiro;Vendedor;44.0
+48;Maysa Sales;Gerente;26.0
+49;Luigi Viana;Gerente;54.0
+50;Joaquim da Cunha;Vendedor;50.0
+51;Bernardo Ferreira;;59.0
+52;João Lucas da Costa;Assistente;61.0
+53;Dr. Diogo Rezende;;41.0
+54;;Assistente;32.0
+55;Diego Costela;Gerente;49.0
+56;Bryan Pereira;;
+57;Dra. Daniela da Paz;Vendedor;49.0
+58;Raquel da Mata;Vendedor;41.0
+59;Dra. Laura Silva;Vendedor;58.0
+60;Caio Dias;Vendedor;29.0
+61;Isadora Moura;Vendedor;56.0
+62;Isaac Moraes;Vendedor;19.0
+63;;Assistente;20.0
+64;Fernando Ferreira;Vendedor;54.0
+65;Dr. Anthony da Paz;Vendedor;34.0
+66;Emanuelly Nogueira;Gerente;19.0
+67;Gustavo Henrique Silveira;Vendedor;
+68;Vinicius Silva;Assistente;19.0
+68;Vinicius Silva;Assistente;19.0
+69;Maitê Cavalcanti;Vendedor;45.0
+70;Alexia Moura;;40.0
+70;Alexia Moura;;40.0
+71;Carlos Eduardo Silveira;Assistente;54.0
+72;;Vendedor;49.0
+73;Kevin Cunha;Vendedor;50.0
+74;Ryan Fogaça;Assistente;18.0
+75;João Lucas Martins;Assistente;36.0
+76;Joaquim Fogaça;Assistente;19.0
+77;Dra. Alice Aragão;Assistente;61.0
+78;Gabriel da Mata;Vendedor;
+79;Matheus Gomes;Vendedor;43.0
+80;Davi Luiz Teixeira;Vendedor;49.0
+81;;Assistente;23.0
+82;João Pedro Costa;Gerente;49.0
+83;Luiz Gustavo da Paz;Vendedor;21.0
+84;Sophie Ribeiro;Vendedor;28.0
+85;Dra. Ana Vitória Barros;Vendedor;34.0
+86;Breno Rocha;Vendedor;55.0
+87;Helena Peixoto;Assistente;41.0
+88;Alexia Caldeira;Gerente;22.0
+89;Bruno da Luz;Assistente;
+90;;Gerente;51.0
+91;Emilly Santos;Vendedor;23.0
+91;Emilly Santos;Vendedor;23.0
+92;Caio Pires;Assistente;39.0
+93;Esther da Mata;Assistente;28.0
+94;Amanda Caldeira;Gerente;33.0
+95;Laís Souza;Assistente;50.0
+96;Calebe da Luz;Gerente;26.0
+97;Rafael Duarte;Gerente;23.0
+98;Vitor Gabriel Ramos;Gerente;33.0
+99;;Vendedor;46.0
+100;Bruno Peixoto;Vendedor;

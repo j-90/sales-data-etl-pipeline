@@ -1,0 +1,51 @@
+2025-08-26 17:13:26,251 - et_produtos - INFO - Iniciando processamento de produtos
+2025-08-26 17:13:26,253 - et_produtos - INFO - Dados de produtos carregados: 210 registros
+2025-08-26 17:13:26,253 - et_produtos - INFO - IDs de produtos duplicados que serão removidos: [ 24  27  28  44 113 119 125 170 184 187]
+2025-08-26 17:13:26,259 - et_produtos - INFO - Produtos com nomes inconsistentes (corrigidos):
+2025-08-26 17:13:26,259 - et_produtos - INFO - ID: 12 | Nome original: nan | Corrigido para: Produto 12
+2025-08-26 17:13:26,259 - et_produtos - INFO - ID: 24 | Nome original: nan | Corrigido para: Produto 24
+2025-08-26 17:13:26,259 - et_produtos - INFO - ID: 36 | Nome original: nan | Corrigido para: Produto 36
+2025-08-26 17:13:26,261 - et_produtos - INFO - ID: 48 | Nome original: nan | Corrigido para: Produto 48
+2025-08-26 17:13:26,261 - et_produtos - INFO - ID: 60 | Nome original: nan | Corrigido para: Produto 60
+2025-08-26 17:13:26,261 - et_produtos - INFO - ID: 72 | Nome original: nan | Corrigido para: Produto 72
+2025-08-26 17:13:26,261 - et_produtos - INFO - ID: 84 | Nome original: nan | Corrigido para: Produto 84
+2025-08-26 17:13:26,261 - et_produtos - INFO - ID: 96 | Nome original: nan | Corrigido para: Produto 96
+2025-08-26 17:13:26,261 - et_produtos - INFO - ID: 108 | Nome original: nan | Corrigido para: Produto 108
+2025-08-26 17:13:26,261 - et_produtos - INFO - ID: 120 | Nome original: nan | Corrigido para: Produto 120
+2025-08-26 17:13:26,261 - et_produtos - INFO - ID: 132 | Nome original: nan | Corrigido para: Produto 132
+2025-08-26 17:13:26,261 - et_produtos - INFO - ID: 144 | Nome original: nan | Corrigido para: Produto 144
+2025-08-26 17:13:26,261 - et_produtos - INFO - ID: 156 | Nome original: nan | Corrigido para: Produto 156
+2025-08-26 17:13:26,261 - et_produtos - INFO - ID: 168 | Nome original: nan | Corrigido para: Produto 168
+2025-08-26 17:13:26,261 - et_produtos - INFO - ID: 180 | Nome original: nan | Corrigido para: Produto 180
+2025-08-26 17:13:26,261 - et_produtos - INFO - ID: 192 | Nome original: nan | Corrigido para: Produto 192
+2025-08-26 17:13:26,261 - et_produtos - INFO - Preenchendo 15 categorias vazias com 'Desconhecida'
+2025-08-26 17:13:26,261 - et_produtos - INFO - Encontrados 28 produtos com preço em branco
+2025-08-26 17:13:26,263 - et_produtos - INFO - Produto ID 7: preço preenchido com mediana 935.25 da categoria 'Eletrônicos'
+2025-08-26 17:13:26,263 - et_produtos - INFO - Produto ID 14: preço preenchido com mediana 975.64 da categoria 'Livros'
+2025-08-26 17:13:26,263 - et_produtos - INFO - Produto ID 21: preço preenchido com mediana 975.64 da categoria 'Livros'
+2025-08-26 17:13:26,265 - et_produtos - INFO - Produto ID 28: preço preenchido com mediana 1059.1 da categoria 'Casa'
+2025-08-26 17:13:26,265 - et_produtos - INFO - Produto ID 35: preço preenchido com mediana 1059.1 da categoria 'Casa'
+2025-08-26 17:13:26,265 - et_produtos - INFO - Produto ID 42: preço preenchido com mediana 1218.14 da categoria 'Beleza'
+2025-08-26 17:13:26,267 - et_produtos - INFO - Produto ID 49: preço preenchido com mediana 935.25 da categoria 'Eletrônicos'
+2025-08-26 17:13:26,268 - et_produtos - INFO - Produto ID 56: preço preenchido com mediana 1059.1 da categoria 'Casa'
+2025-08-26 17:13:26,268 - et_produtos - INFO - Produto ID 63: preço preenchido com mediana 975.64 da categoria 'Livros'
+2025-08-26 17:13:26,268 - et_produtos - INFO - Produto ID 70: preço preenchido com mediana 1059.1 da categoria 'Casa'
+2025-08-26 17:13:26,270 - et_produtos - INFO - Produto ID 77: preço preenchido com mediana 975.64 da categoria 'Livros'
+2025-08-26 17:13:26,270 - et_produtos - INFO - Produto ID 84: preço preenchido com mediana 935.25 da categoria 'Eletrônicos'
+2025-08-26 17:13:26,271 - et_produtos - INFO - Produto ID 91: preço preenchido com mediana 747.68 da categoria 'Desconhecida'
+2025-08-26 17:13:26,271 - et_produtos - INFO - Produto ID 98: preço preenchido com mediana 1218.14 da categoria 'Beleza'
+2025-08-26 17:13:26,271 - et_produtos - INFO - Produto ID 105: preço preenchido com mediana 747.68 da categoria 'Desconhecida'
+2025-08-26 17:13:26,271 - et_produtos - INFO - Produto ID 112: preço preenchido com mediana 935.25 da categoria 'Eletrônicos'
+2025-08-26 17:13:26,273 - et_produtos - INFO - Produto ID 119: preço preenchido com mediana 976.94 da categoria 'Roupas'
+2025-08-26 17:13:26,273 - et_produtos - INFO - Produto ID 126: preço preenchido com mediana 935.25 da categoria 'Eletrônicos'
+2025-08-26 17:13:26,273 - et_produtos - INFO - Produto ID 133: preço preenchido com mediana 976.94 da categoria 'Roupas'
+2025-08-26 17:13:26,275 - et_produtos - INFO - Produto ID 140: preço preenchido com mediana 935.25 da categoria 'Eletrônicos'
+2025-08-26 17:13:26,275 - et_produtos - INFO - Produto ID 147: preço preenchido com mediana 975.64 da categoria 'Livros'
+2025-08-26 17:13:26,275 - et_produtos - INFO - Produto ID 154: preço preenchido com mediana 1218.14 da categoria 'Beleza'
+2025-08-26 17:13:26,275 - et_produtos - INFO - Produto ID 161: preço preenchido com mediana 975.64 da categoria 'Livros'
+2025-08-26 17:13:26,277 - et_produtos - INFO - Produto ID 168: preço preenchido com mediana 1218.14 da categoria 'Beleza'
+2025-08-26 17:13:26,277 - et_produtos - INFO - Produto ID 175: preço preenchido com mediana 747.68 da categoria 'Desconhecida'
+2025-08-26 17:13:26,277 - et_produtos - INFO - Produto ID 182: preço preenchido com mediana 976.94 da categoria 'Roupas'
+2025-08-26 17:13:26,279 - et_produtos - INFO - Produto ID 189: preço preenchido com mediana 976.94 da categoria 'Roupas'
+2025-08-26 17:13:26,279 - et_produtos - INFO - Produto ID 196: preço preenchido com mediana 1059.1 da categoria 'Casa'
+2025-08-26 17:13:26,279 - et_produtos - INFO - Processamento concluído. Total de produtos processados: 200

@@ -1,0 +1,7 @@
+2025-08-26 17:13:25,906 - create_user_database - INFO - Iniciando criação de usuário e banco de dados
+2025-08-26 17:13:25,937 - create_user_database - INFO - Conexão com PostgreSQL estabelecida como superusuário
+2025-08-26 17:13:25,939 - create_user_database - INFO - Usuário 'bus2' já existe.
+2025-08-26 17:13:25,941 - create_user_database - INFO - Permissão de criação de banco de dados concedida ao usuário 'bus2'.
+2025-08-26 17:13:25,941 - create_user_database - INFO - Banco de dados 'bus2' já existe.
+2025-08-26 17:13:25,941 - create_user_database - INFO - Conexão com banco de dados fechada
+2025-08-26 17:13:25,941 - create_user_database - INFO - Criação de usuário e banco de dados concluída com sucesso

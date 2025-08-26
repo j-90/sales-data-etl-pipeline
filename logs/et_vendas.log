@@ -1,0 +1,119 @@
+2025-08-26 17:13:26,517 - et_vendas - INFO - Iniciando processamento de vendas
+2025-08-26 17:13:26,518 - et_vendas - INFO - Dados de vendas carregados: 1025 registros
+2025-08-26 17:13:26,584 - et_vendas - INFO - Dados de produtos carregados do banco: 200 registros
+2025-08-26 17:13:26,584 - et_vendas - INFO - IDs de vendas duplicados que serão removidos: [  6 315 339 374 407 450 460 510 511 514 540 555 556 638 719 738 745 793
+ 800 862 896 921 950 990 994]
+2025-08-26 17:13:26,586 - et_vendas - INFO - Iniciando validação de datas para 1000 vendas
+2025-08-26 17:13:26,586 - et_vendas - INFO - Encontradas 100 vendas com data ausente - aplicando tratamento inteligente
+2025-08-26 17:13:26,590 - et_vendas - INFO - Venda ID 10: data preenchida com mediana do empregado 98
+2025-08-26 17:13:26,593 - et_vendas - INFO - Venda ID 20: data preenchida com mediana do empregado 81
+2025-08-26 17:13:26,593 - et_vendas - INFO - Venda ID 30: data preenchida com mediana do empregado 86
+2025-08-26 17:13:26,595 - et_vendas - INFO - Venda ID 40: data preenchida com mediana do empregado 59
+2025-08-26 17:13:26,595 - et_vendas - INFO - Venda ID 50: data preenchida com mediana do empregado 98
+2025-08-26 17:13:26,595 - et_vendas - INFO - Venda ID 60: data preenchida com mediana do empregado 89
+2025-08-26 17:13:26,597 - et_vendas - INFO - Venda ID 70: data preenchida com mediana do empregado 17
+2025-08-26 17:13:26,597 - et_vendas - INFO - Venda ID 80: data preenchida com mediana do empregado 19
+2025-08-26 17:13:26,597 - et_vendas - INFO - Venda ID 90: data preenchida com mediana do empregado 21
+2025-08-26 17:13:26,599 - et_vendas - INFO - Venda ID 100: data preenchida com mediana do empregado 75
+2025-08-26 17:13:26,599 - et_vendas - INFO - Venda ID 110: data preenchida com mediana do empregado 28
+2025-08-26 17:13:26,600 - et_vendas - INFO - Venda ID 120: data preenchida com mediana do empregado 78
+2025-08-26 17:13:26,601 - et_vendas - INFO - Venda ID 130: data preenchida com mediana do empregado 49
+2025-08-26 17:13:26,601 - et_vendas - INFO - Venda ID 140: data preenchida com mediana do empregado 29
+2025-08-26 17:13:26,601 - et_vendas - INFO - Venda ID 150: data preenchida com mediana do empregado 13
+2025-08-26 17:13:26,603 - et_vendas - INFO - Venda ID 160: data preenchida com mediana do empregado 21
+2025-08-26 17:13:26,603 - et_vendas - INFO - Venda ID 170: data preenchida com mediana do empregado 7
+2025-08-26 17:13:26,603 - et_vendas - INFO - Venda ID 180: data preenchida com mediana do empregado 73
+2025-08-26 17:13:26,605 - et_vendas - INFO - Venda ID 190: data preenchida com mediana do empregado 2
+2025-08-26 17:13:26,605 - et_vendas - INFO - Venda ID 200: data preenchida com mediana do empregado 98
+2025-08-26 17:13:26,605 - et_vendas - INFO - Venda ID 210: data preenchida com mediana do empregado 33
+2025-08-26 17:13:26,605 - et_vendas - INFO - Venda ID 220: data preenchida com mediana do empregado 40
+2025-08-26 17:13:26,607 - et_vendas - INFO - Venda ID 230: data preenchida com mediana do empregado 99
+2025-08-26 17:13:26,607 - et_vendas - INFO - Venda ID 240: data preenchida com mediana do empregado 5
+2025-08-26 17:13:26,608 - et_vendas - INFO - Venda ID 250: data preenchida com mediana do empregado 17
+2025-08-26 17:13:26,609 - et_vendas - INFO - Venda ID 260: data preenchida com mediana do empregado 97
+2025-08-26 17:13:26,609 - et_vendas - INFO - Venda ID 270: data preenchida com mediana do empregado 4
+2025-08-26 17:13:26,609 - et_vendas - INFO - Venda ID 280: data preenchida com mediana do empregado 92
+2025-08-26 17:13:26,611 - et_vendas - INFO - Venda ID 290: data preenchida com mediana do empregado 57
+2025-08-26 17:13:26,611 - et_vendas - INFO - Venda ID 300: data preenchida com mediana do empregado 37
+2025-08-26 17:13:26,611 - et_vendas - INFO - Venda ID 310: data preenchida com mediana do empregado 40
+2025-08-26 17:13:26,613 - et_vendas - INFO - Venda ID 320: data preenchida com mediana do empregado 74
+2025-08-26 17:13:26,613 - et_vendas - INFO - Venda ID 330: data preenchida com mediana do empregado 95
+2025-08-26 17:13:26,613 - et_vendas - INFO - Venda ID 340: data preenchida com mediana do empregado 16
+2025-08-26 17:13:26,615 - et_vendas - INFO - Venda ID 350: data preenchida com mediana do empregado 84
+2025-08-26 17:13:26,615 - et_vendas - INFO - Venda ID 360: data preenchida com mediana do empregado 16
+2025-08-26 17:13:26,615 - et_vendas - INFO - Venda ID 370: data preenchida com mediana do empregado 86
+2025-08-26 17:13:26,617 - et_vendas - INFO - Venda ID 380: data preenchida com mediana do empregado 88
+2025-08-26 17:13:26,618 - et_vendas - INFO - Venda ID 390: data preenchida com mediana do empregado 15
+2025-08-26 17:13:26,618 - et_vendas - INFO - Venda ID 400: data preenchida com mediana do empregado 30
+2025-08-26 17:13:26,620 - et_vendas - INFO - Venda ID 410: data preenchida com mediana do empregado 30
+2025-08-26 17:13:26,620 - et_vendas - INFO - Venda ID 420: data preenchida com mediana do empregado 85
+2025-08-26 17:13:26,620 - et_vendas - INFO - Venda ID 430: data preenchida com mediana do empregado 19
+2025-08-26 17:13:26,622 - et_vendas - INFO - Venda ID 440: data preenchida com mediana do empregado 21
+2025-08-26 17:13:26,622 - et_vendas - INFO - Venda ID 450: data preenchida com mediana do empregado 66
+2025-08-26 17:13:26,622 - et_vendas - INFO - Venda ID 460: data preenchida com mediana do empregado 63
+2025-08-26 17:13:26,624 - et_vendas - INFO - Venda ID 470: data preenchida com mediana do empregado 37
+2025-08-26 17:13:26,624 - et_vendas - INFO - Venda ID 480: data preenchida com mediana do empregado 38
+2025-08-26 17:13:26,624 - et_vendas - INFO - Venda ID 490: data preenchida com mediana do empregado 65
+2025-08-26 17:13:26,625 - et_vendas - INFO - Venda ID 500: data preenchida com mediana do empregado 9
+2025-08-26 17:13:26,626 - et_vendas - INFO - Venda ID 510: data preenchida com mediana do empregado 86
+2025-08-26 17:13:26,627 - et_vendas - INFO - Venda ID 520: data preenchida com mediana do empregado 65
+2025-08-26 17:13:26,628 - et_vendas - INFO - Venda ID 530: data preenchida com mediana do empregado 93
+2025-08-26 17:13:26,628 - et_vendas - INFO - Venda ID 540: data preenchida com mediana do empregado 15
+2025-08-26 17:13:26,628 - et_vendas - INFO - Venda ID 550: data preenchida com mediana do empregado 50
+2025-08-26 17:13:26,630 - et_vendas - INFO - Venda ID 560: data preenchida com mediana do empregado 23
+2025-08-26 17:13:26,630 - et_vendas - INFO - Venda ID 570: data preenchida com mediana do empregado 80
+2025-08-26 17:13:26,630 - et_vendas - INFO - Venda ID 580: data preenchida com mediana do empregado 86
+2025-08-26 17:13:26,632 - et_vendas - INFO - Venda ID 590: data preenchida com mediana do empregado 43
+2025-08-26 17:13:26,632 - et_vendas - INFO - Venda ID 600: data preenchida com mediana do empregado 49
+2025-08-26 17:13:26,632 - et_vendas - INFO - Venda ID 610: data preenchida com mediana do empregado 82
+2025-08-26 17:13:26,633 - et_vendas - INFO - Venda ID 620: data preenchida com mediana do empregado 61
+2025-08-26 17:13:26,633 - et_vendas - INFO - Venda ID 630: data preenchida com mediana do empregado 35
+2025-08-26 17:13:26,635 - et_vendas - INFO - Venda ID 640: data preenchida com mediana do empregado 47
+2025-08-26 17:13:26,635 - et_vendas - INFO - Venda ID 650: data preenchida com mediana do empregado 56
+2025-08-26 17:13:26,635 - et_vendas - INFO - Venda ID 660: data preenchida com mediana do empregado 75
+2025-08-26 17:13:26,635 - et_vendas - INFO - Venda ID 670: data preenchida com mediana do empregado 40
+2025-08-26 17:13:26,637 - et_vendas - INFO - Venda ID 680: data preenchida com mediana do empregado 96
+2025-08-26 17:13:26,637 - et_vendas - INFO - Venda ID 690: data preenchida com mediana do empregado 32
+2025-08-26 17:13:26,637 - et_vendas - INFO - Venda ID 700: data preenchida com mediana do empregado 89
+2025-08-26 17:13:26,639 - et_vendas - INFO - Venda ID 710: data preenchida com mediana do empregado 62
+2025-08-26 17:13:26,639 - et_vendas - INFO - Venda ID 720: data preenchida com mediana do empregado 23
+2025-08-26 17:13:26,639 - et_vendas - INFO - Venda ID 730: data preenchida com mediana do empregado 13
+2025-08-26 17:13:26,641 - et_vendas - INFO - Venda ID 740: data preenchida com mediana do empregado 94
+2025-08-26 17:13:26,642 - et_vendas - INFO - Venda ID 750: data preenchida com mediana do empregado 59
+2025-08-26 17:13:26,642 - et_vendas - INFO - Venda ID 760: data preenchida com mediana do empregado 62
+2025-08-26 17:13:26,642 - et_vendas - INFO - Venda ID 770: data preenchida com mediana do empregado 83
+2025-08-26 17:13:26,642 - et_vendas - INFO - Venda ID 780: data preenchida com mediana do empregado 50
+2025-08-26 17:13:26,645 - et_vendas - INFO - Venda ID 790: data preenchida com mediana do empregado 64
+2025-08-26 17:13:26,645 - et_vendas - INFO - Venda ID 800: data preenchida com mediana do empregado 13
+2025-08-26 17:13:26,645 - et_vendas - INFO - Venda ID 810: data preenchida com mediana do empregado 44
+2025-08-26 17:13:26,647 - et_vendas - INFO - Venda ID 820: data preenchida com mediana do empregado 56
+2025-08-26 17:13:26,647 - et_vendas - INFO - Venda ID 830: data preenchida com mediana do empregado 25
+2025-08-26 17:13:26,647 - et_vendas - INFO - Venda ID 840: data preenchida com mediana do empregado 46
+2025-08-26 17:13:26,647 - et_vendas - INFO - Venda ID 850: data preenchida com mediana do empregado 19
+2025-08-26 17:13:26,649 - et_vendas - INFO - Venda ID 860: data preenchida com mediana do empregado 10
+2025-08-26 17:13:26,649 - et_vendas - INFO - Venda ID 870: data preenchida com mediana do empregado 42
+2025-08-26 17:13:26,650 - et_vendas - INFO - Venda ID 880: data preenchida com mediana do empregado 45
+2025-08-26 17:13:26,650 - et_vendas - INFO - Venda ID 890: data preenchida com mediana do empregado 87
+2025-08-26 17:13:26,652 - et_vendas - INFO - Venda ID 900: data preenchida com mediana do empregado 39
+2025-08-26 17:13:26,652 - et_vendas - INFO - Venda ID 910: data preenchida com mediana do empregado 11
+2025-08-26 17:13:26,652 - et_vendas - INFO - Venda ID 920: data preenchida com mediana do empregado 47
+2025-08-26 17:13:26,652 - et_vendas - INFO - Venda ID 930: data preenchida com mediana do empregado 48
+2025-08-26 17:13:26,654 - et_vendas - INFO - Venda ID 940: data preenchida com mediana do empregado 54
+2025-08-26 17:13:26,654 - et_vendas - INFO - Venda ID 950: data preenchida com mediana do empregado 29
+2025-08-26 17:13:26,654 - et_vendas - INFO - Venda ID 960: data preenchida com mediana do empregado 69
+2025-08-26 17:13:26,656 - et_vendas - INFO - Venda ID 970: data preenchida com mediana do empregado 45
+2025-08-26 17:13:26,656 - et_vendas - INFO - Venda ID 980: data preenchida com mediana do empregado 96
+2025-08-26 17:13:26,656 - et_vendas - INFO - Venda ID 990: data preenchida com mediana do empregado 88
+2025-08-26 17:13:26,658 - et_vendas - INFO - Venda ID 1000: data preenchida com mediana do empregado 52
+2025-08-26 17:13:26,661 - et_vendas - INFO - Resumo: 100 datas foram imputadas de 1000 vendas (10.0%)
+2025-08-26 17:13:26,661 - et_vendas - INFO -   - mediana_empregado: 100 vendas
+2025-08-26 17:13:26,661 - et_vendas - INFO - ✅ Validação concluída: 1000 vendas processadas (0% de perda)
+2025-08-26 17:13:26,663 - et_vendas - INFO - Encontradas 76 linhas com valor_unitario em branco ou nulo.
+2025-08-26 17:13:26,663 - et_vendas - INFO - Categoria 'Casa': preenchidos com mediana 521.41
+2025-08-26 17:13:26,665 - et_vendas - INFO - Categoria 'Roupas': preenchidos com mediana 483.1
+2025-08-26 17:13:26,665 - et_vendas - INFO - Categoria 'Desconhecida': preenchidos com mediana 515.33
+2025-08-26 17:13:26,665 - et_vendas - INFO - Categoria 'Beleza': preenchidos com mediana 551.18
+2025-08-26 17:13:26,667 - et_vendas - INFO - Categoria 'Eletrônicos': preenchidos com mediana 476.76
+2025-08-26 17:13:26,668 - et_vendas - INFO - Categoria 'Livros': preenchidos com mediana 498.57
+2025-08-26 17:13:26,668 - et_vendas - INFO - Valores totais calculados para 76 linhas
+2025-08-26 17:13:26,668 - et_vendas - INFO - Processamento concluído. Total de vendas processadas: 1000
