@@ -261,6 +261,26 @@ Para dúvidas ou problemas:
 3. Validar formato dos arquivos CSV de entrada
 4. Verificar permissões de escrita nos diretórios de saída
 
+## Contato
+
+- **Autor**: [Jeferson Andrade | j-90](https://github.com/j-90)
+- **LinkedIn**: https://www.linkedin.com/in/jeferson-andrade90/
+- **Email**: jandrademelo90@gmail.com
+- **Data de Criação**: 26/08/2025 às 17:33 PM -03
+
+## Histórico de Versões
+
+- **v1.0.0** (26/08/2025): Versão inicial com pipeline ETL funcional.
+
+## Notas Adicionais
+
+- Certifique-se de que o arquivo `empregados.csv`, `produtos.csv` e `vendas.csv` contém as colunas esperadas.
+
+## Links Úteis
+
+- [pandas](https://pandas.pydata.org/)
+
 ---
 
 **Desenvolvido com foco em qualidade de dados, rastreabilidade e boas práticas de ETL.**
+
