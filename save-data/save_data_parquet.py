@@ -56,7 +56,7 @@ def create_output_directories(logger: logging.Logger) -> None:
     Args:
         logger: Logger para registrar informações
     """
-    directories = ['dados_corrigidos', 'parquet-files']
+    directories = ['parquet-files']
     
     for directory in directories:
         if not os.path.exists(directory):

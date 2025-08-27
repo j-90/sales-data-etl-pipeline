@@ -1,38 +1,38 @@
-2025-08-27 17:03:00,147 - et_empregados - INFO - Iniciando processamento de empregados
-2025-08-27 17:03:00,148 - et_empregados - INFO - Dados de empregados carregados: 108 registros
-2025-08-27 17:03:00,148 - et_empregados - INFO - IDs de empregados duplicados que serão removidos: [10 15 28 30 34 68 70 91]
-2025-08-27 17:03:00,150 - et_empregados - INFO - Nenhum empregado com ID em branco encontrado
-2025-08-27 17:03:00,152 - et_empregados - INFO - Empregados com nomes faltantes (corrigidos):
-2025-08-27 17:03:00,152 - et_empregados - INFO - ID: 9 | Nome original: '' | Corrigido para: Funcionário 9
-2025-08-27 17:03:00,152 - et_empregados - INFO - ID: 18 | Nome original: '' | Corrigido para: Funcionário 18
-2025-08-27 17:03:00,152 - et_empregados - INFO - ID: 27 | Nome original: '' | Corrigido para: Funcionário 27
-2025-08-27 17:03:00,152 - et_empregados - INFO - ID: 36 | Nome original: '' | Corrigido para: Funcionário 36
-2025-08-27 17:03:00,152 - et_empregados - INFO - ID: 45 | Nome original: '' | Corrigido para: Funcionário 45
-2025-08-27 17:03:00,152 - et_empregados - INFO - ID: 54 | Nome original: '' | Corrigido para: Funcionário 54
-2025-08-27 17:03:00,152 - et_empregados - INFO - ID: 63 | Nome original: '' | Corrigido para: Funcionário 63
-2025-08-27 17:03:00,152 - et_empregados - INFO - ID: 72 | Nome original: '' | Corrigido para: Funcionário 72
-2025-08-27 17:03:00,152 - et_empregados - INFO - ID: 81 | Nome original: '' | Corrigido para: Funcionário 81
-2025-08-27 17:03:00,152 - et_empregados - INFO - ID: 90 | Nome original: '' | Corrigido para: Funcionário 90
-2025-08-27 17:03:00,152 - et_empregados - INFO - ID: 99 | Nome original: '' | Corrigido para: Funcionário 99
-2025-08-27 17:03:00,152 - et_empregados - INFO - Preenchendo 9 cargos vazios com 'Não Informado'
-2025-08-27 17:03:00,154 - et_empregados - INFO - Encontrados 10 empregados com idade em branco - aplicando imputação inteligente
-2025-08-27 17:03:00,154 - et_empregados - INFO - Empregado ID 1: idade preenchida com mediana 46 do cargo 'Vendedor'
-2025-08-27 17:03:00,156 - et_empregados - INFO - Empregado ID 12: idade preenchida com mediana 42 do cargo 'Não Informado'
-2025-08-27 17:03:00,156 - et_empregados - INFO - Empregado ID 23: idade preenchida com mediana 46 do cargo 'Vendedor'
-2025-08-27 17:03:00,158 - et_empregados - INFO - Empregado ID 34: idade preenchida com mediana 42 do cargo 'Não Informado'
-2025-08-27 17:03:00,158 - et_empregados - INFO - Empregado ID 45: idade preenchida com mediana 46 do cargo 'Vendedor'
-2025-08-27 17:03:00,160 - et_empregados - INFO - Empregado ID 56: idade preenchida com mediana 42 do cargo 'Não Informado'
-2025-08-27 17:03:00,160 - et_empregados - INFO - Empregado ID 67: idade preenchida com mediana 46 do cargo 'Vendedor'
-2025-08-27 17:03:00,162 - et_empregados - INFO - Empregado ID 78: idade preenchida com mediana 46 do cargo 'Vendedor'
-2025-08-27 17:03:00,162 - et_empregados - INFO - Empregado ID 89: idade preenchida com mediana 40 do cargo 'Assistente'
-2025-08-27 17:03:00,164 - et_empregados - INFO - Empregado ID 100: idade preenchida com mediana 46 do cargo 'Vendedor'
-2025-08-27 17:03:00,164 - et_empregados - INFO - Todas as idades estão dentro da faixa válida (18-70 anos)
-2025-08-27 17:03:00,164 - et_empregados - INFO - 📊 ESTATÍSTICAS DE PROCESSAMENTO:
-2025-08-27 17:03:00,164 - et_empregados - INFO -   🆔 IDs de empregados únicos: 100
-2025-08-27 17:03:00,164 - et_empregados - INFO -   📈 Idades imputadas: 10 de 100 empregados (10.0%)
-2025-08-27 17:03:00,165 - et_empregados - INFO -     - mediana_cargo: 10 empregados
-2025-08-27 17:03:00,165 - et_empregados - INFO -   🔧 Idades: Todas estavam na faixa válida (18-70 anos)
-2025-08-27 17:03:00,165 - et_empregados - INFO -   💼 Cargos 'Não Informado': 9 empregados (9.0%)
-2025-08-27 17:03:00,165 - et_empregados - INFO -   💼 Distribuição por cargo: 4 cargos distintos
-2025-08-27 17:03:00,165 - et_empregados - INFO -   👥 Idade média: 41.1 anos | Mediana: 44.5 anos
-2025-08-27 17:03:00,165 - et_empregados - INFO - ✅ Processamento concluído. Total de empregados processados: 100 (0% de perda)
+2025-08-27 17:07:10,520 - et_empregados - INFO - Iniciando processamento de empregados
+2025-08-27 17:07:10,522 - et_empregados - INFO - Dados de empregados carregados: 108 registros
+2025-08-27 17:07:10,522 - et_empregados - INFO - IDs de empregados duplicados que serão removidos: [10 15 28 30 34 68 70 91]
+2025-08-27 17:07:10,522 - et_empregados - INFO - Nenhum empregado com ID em branco encontrado
+2025-08-27 17:07:10,527 - et_empregados - INFO - Empregados com nomes faltantes (corrigidos):
+2025-08-27 17:07:10,527 - et_empregados - INFO - ID: 9 | Nome original: '' | Corrigido para: Funcionário 9
+2025-08-27 17:07:10,527 - et_empregados - INFO - ID: 18 | Nome original: '' | Corrigido para: Funcionário 18
+2025-08-27 17:07:10,527 - et_empregados - INFO - ID: 27 | Nome original: '' | Corrigido para: Funcionário 27
+2025-08-27 17:07:10,527 - et_empregados - INFO - ID: 36 | Nome original: '' | Corrigido para: Funcionário 36
+2025-08-27 17:07:10,528 - et_empregados - INFO - ID: 45 | Nome original: '' | Corrigido para: Funcionário 45
+2025-08-27 17:07:10,528 - et_empregados - INFO - ID: 54 | Nome original: '' | Corrigido para: Funcionário 54
+2025-08-27 17:07:10,528 - et_empregados - INFO - ID: 63 | Nome original: '' | Corrigido para: Funcionário 63
+2025-08-27 17:07:10,528 - et_empregados - INFO - ID: 72 | Nome original: '' | Corrigido para: Funcionário 72
+2025-08-27 17:07:10,528 - et_empregados - INFO - ID: 81 | Nome original: '' | Corrigido para: Funcionário 81
+2025-08-27 17:07:10,528 - et_empregados - INFO - ID: 90 | Nome original: '' | Corrigido para: Funcionário 90
+2025-08-27 17:07:10,528 - et_empregados - INFO - ID: 99 | Nome original: '' | Corrigido para: Funcionário 99
+2025-08-27 17:07:10,528 - et_empregados - INFO - Preenchendo 9 cargos vazios com 'Não Informado'
+2025-08-27 17:07:10,529 - et_empregados - INFO - Encontrados 10 empregados com idade em branco - aplicando imputação inteligente
+2025-08-27 17:07:10,530 - et_empregados - INFO - Empregado ID 1: idade preenchida com mediana 46 do cargo 'Vendedor'
+2025-08-27 17:07:10,531 - et_empregados - INFO - Empregado ID 12: idade preenchida com mediana 42 do cargo 'Não Informado'
+2025-08-27 17:07:10,532 - et_empregados - INFO - Empregado ID 23: idade preenchida com mediana 46 do cargo 'Vendedor'
+2025-08-27 17:07:10,533 - et_empregados - INFO - Empregado ID 34: idade preenchida com mediana 42 do cargo 'Não Informado'
+2025-08-27 17:07:10,534 - et_empregados - INFO - Empregado ID 45: idade preenchida com mediana 46 do cargo 'Vendedor'
+2025-08-27 17:07:10,535 - et_empregados - INFO - Empregado ID 56: idade preenchida com mediana 42 do cargo 'Não Informado'
+2025-08-27 17:07:10,536 - et_empregados - INFO - Empregado ID 67: idade preenchida com mediana 46 do cargo 'Vendedor'
+2025-08-27 17:07:10,537 - et_empregados - INFO - Empregado ID 78: idade preenchida com mediana 46 do cargo 'Vendedor'
+2025-08-27 17:07:10,537 - et_empregados - INFO - Empregado ID 89: idade preenchida com mediana 40 do cargo 'Assistente'
+2025-08-27 17:07:10,538 - et_empregados - INFO - Empregado ID 100: idade preenchida com mediana 46 do cargo 'Vendedor'
+2025-08-27 17:07:10,539 - et_empregados - INFO - Todas as idades estão dentro da faixa válida (18-70 anos)
+2025-08-27 17:07:10,539 - et_empregados - INFO - 📊 ESTATÍSTICAS DE PROCESSAMENTO:
+2025-08-27 17:07:10,539 - et_empregados - INFO -   🆔 IDs de empregados únicos: 100
+2025-08-27 17:07:10,539 - et_empregados - INFO -   📈 Idades imputadas: 10 de 100 empregados (10.0%)
+2025-08-27 17:07:10,539 - et_empregados - INFO -     - mediana_cargo: 10 empregados
+2025-08-27 17:07:10,539 - et_empregados - INFO -   🔧 Idades: Todas estavam na faixa válida (18-70 anos)
+2025-08-27 17:07:10,539 - et_empregados - INFO -   💼 Cargos 'Não Informado': 9 empregados (9.0%)
+2025-08-27 17:07:10,540 - et_empregados - INFO -   💼 Distribuição por cargo: 4 cargos distintos
+2025-08-27 17:07:10,540 - et_empregados - INFO -   👥 Idade média: 41.1 anos | Mediana: 44.5 anos
+2025-08-27 17:07:10,540 - et_empregados - INFO - ✅ Processamento concluído. Total de empregados processados: 100 (0% de perda)

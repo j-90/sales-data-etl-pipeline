@@ -1,7 +1,7 @@
-2025-08-27 17:03:00,169 - loading_empregados - INFO - Iniciando carregamento de empregados no PostgreSQL
-2025-08-27 17:03:00,169 - loading_empregados - INFO - DataFrame validado. Total de registros: 100
-2025-08-27 17:03:00,197 - loading_empregados - INFO - Conexão com banco de dados estabelecida
-2025-08-27 17:03:00,215 - loading_empregados - INFO - Tabela 'empregados' criada/recriada
-2025-08-27 17:03:00,236 - loading_empregados - INFO - Dados inseridos com sucesso: 100 registros
-2025-08-27 17:03:00,236 - loading_empregados - INFO - Conexão com banco de dados fechada
-2025-08-27 17:03:00,236 - loading_empregados - INFO - Carregamento de empregados concluído com sucesso
+2025-08-27 17:07:10,541 - loading_empregados - INFO - Iniciando carregamento de empregados no PostgreSQL
+2025-08-27 17:07:10,541 - loading_empregados - INFO - DataFrame validado. Total de registros: 100
+2025-08-27 17:07:10,567 - loading_empregados - INFO - Conexão com banco de dados estabelecida
+2025-08-27 17:07:10,581 - loading_empregados - INFO - Tabela 'empregados' criada/recriada
+2025-08-27 17:07:10,599 - loading_empregados - INFO - Dados inseridos com sucesso: 100 registros
+2025-08-27 17:07:10,599 - loading_empregados - INFO - Conexão com banco de dados fechada
+2025-08-27 17:07:10,599 - loading_empregados - INFO - Carregamento de empregados concluído com sucesso

@@ -1,7 +1,7 @@
-2025-08-27 17:02:58,422 - loading_produtos - INFO - Iniciando carregamento de produtos no PostgreSQL
-2025-08-27 17:02:58,422 - loading_produtos - INFO - DataFrame validado. Total de registros: 200
-2025-08-27 17:02:58,506 - loading_produtos - INFO - Conexão com banco de dados estabelecida
-2025-08-27 17:02:58,695 - loading_produtos - INFO - Tabela 'produtos' criada/recriada
-2025-08-27 17:02:58,757 - loading_produtos - INFO - Dados inseridos com sucesso: 200 registros
-2025-08-27 17:02:58,757 - loading_produtos - INFO - Conexão com banco de dados fechada
-2025-08-27 17:02:58,757 - loading_produtos - INFO - Carregamento de produtos concluído com sucesso
+2025-08-27 17:07:09,894 - loading_produtos - INFO - Iniciando carregamento de produtos no PostgreSQL
+2025-08-27 17:07:09,894 - loading_produtos - INFO - DataFrame validado. Total de registros: 200
+2025-08-27 17:07:09,924 - loading_produtos - INFO - Conexão com banco de dados estabelecida
+2025-08-27 17:07:09,948 - loading_produtos - INFO - Tabela 'produtos' criada/recriada
+2025-08-27 17:07:09,981 - loading_produtos - INFO - Dados inseridos com sucesso: 200 registros
+2025-08-27 17:07:09,981 - loading_produtos - INFO - Conexão com banco de dados fechada
+2025-08-27 17:07:09,981 - loading_produtos - INFO - Carregamento de produtos concluído com sucesso

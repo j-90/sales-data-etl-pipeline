@@ -1,22 +1,22 @@
-2025-08-27 17:03:02,424 - save_data_pdf_report - INFO - Iniciando geração do relatório PDF
-2025-08-27 17:03:02,426 - save_data_pdf_report - INFO - Conexão com banco de dados estabelecida
-2025-08-27 17:03:02,472 - save_data_pdf_report - INFO - Dados de vendas por funcionário carregados: 99 registros
-2025-08-27 17:03:02,475 - save_data_pdf_report - INFO - Dados de ticket médio por produto carregados: 197 registros
-2025-08-27 17:03:02,475 - save_data_pdf_report - INFO - Dados de vendas por categoria carregados: 6 registros
-2025-08-27 17:03:02,477 - save_data_pdf_report - INFO - Dados de top 5 funcionários carregados: 5 registros
-2025-08-27 17:03:02,479 - save_data_pdf_report - INFO - Dados de vendas por período carregados: 6 registros
-2025-08-27 17:03:02,514 - save_data_pdf_report - INFO - Gerando título principal
-2025-08-27 17:03:02,516 - save_data_pdf_report - INFO - Gerando seção: Total de vendas por funcionário
-2025-08-27 17:03:02,518 - save_data_pdf_report - INFO - Gerando seção: Ticket médio por produto
-2025-08-27 17:03:02,522 - save_data_pdf_report - INFO - Gerando seção: Quantidade de vendas por categoria
-2025-08-27 17:03:02,522 - save_data_pdf_report - INFO - Criando gráfico de barras horizontais para vendas por categoria
-2025-08-27 17:03:03,431 - save_data_pdf_report - INFO - Gráfico de barras horizontais criado: Vendas por Categoria de Produto
-2025-08-27 17:03:03,711 - save_data_pdf_report - INFO - Gerando seção: Top 5 funcionários
-2025-08-27 17:03:03,711 - save_data_pdf_report - INFO - Criando gráfico de barras para top 5 funcionários
-2025-08-27 17:03:03,808 - save_data_pdf_report - INFO - Gráfico de barras criado: Top 5 Funcionários - Volume de Vendas
-2025-08-27 17:03:04,071 - save_data_pdf_report - INFO - Gerando seção: Vendas por período
-2025-08-27 17:03:04,074 - save_data_pdf_report - INFO - Criando gráfico de linha para vendas por período
-2025-08-27 17:03:04,155 - save_data_pdf_report - INFO - Gráfico de linha criado: Evolução de Vendas por Período
-2025-08-27 17:03:05,275 - save_data_pdf_report - INFO - Relatório PDF gerado com sucesso: pdf-files/relatorio-final.pdf
-2025-08-27 17:03:05,279 - save_data_pdf_report - INFO - Conexão com banco de dados fechada
-2025-08-27 17:03:05,279 - save_data_pdf_report - INFO - Geração do relatório PDF concluída com sucesso
+2025-08-27 17:07:10,962 - save_data_pdf_report - INFO - Iniciando geração do relatório PDF
+2025-08-27 17:07:10,962 - save_data_pdf_report - INFO - Conexão com banco de dados estabelecida
+2025-08-27 17:07:10,991 - save_data_pdf_report - INFO - Dados de vendas por funcionário carregados: 99 registros
+2025-08-27 17:07:10,996 - save_data_pdf_report - INFO - Dados de ticket médio por produto carregados: 197 registros
+2025-08-27 17:07:10,996 - save_data_pdf_report - INFO - Dados de vendas por categoria carregados: 6 registros
+2025-08-27 17:07:10,998 - save_data_pdf_report - INFO - Dados de top 5 funcionários carregados: 5 registros
+2025-08-27 17:07:11,000 - save_data_pdf_report - INFO - Dados de vendas por período carregados: 6 registros
+2025-08-27 17:07:11,023 - save_data_pdf_report - INFO - Gerando título principal
+2025-08-27 17:07:11,023 - save_data_pdf_report - INFO - Gerando seção: Total de vendas por funcionário
+2025-08-27 17:07:11,025 - save_data_pdf_report - INFO - Gerando seção: Ticket médio por produto
+2025-08-27 17:07:11,029 - save_data_pdf_report - INFO - Gerando seção: Quantidade de vendas por categoria
+2025-08-27 17:07:11,029 - save_data_pdf_report - INFO - Criando gráfico de barras horizontais para vendas por categoria
+2025-08-27 17:07:11,160 - save_data_pdf_report - INFO - Gráfico de barras horizontais criado: Vendas por Categoria de Produto
+2025-08-27 17:07:11,418 - save_data_pdf_report - INFO - Gerando seção: Top 5 funcionários
+2025-08-27 17:07:11,419 - save_data_pdf_report - INFO - Criando gráfico de barras para top 5 funcionários
+2025-08-27 17:07:11,496 - save_data_pdf_report - INFO - Gráfico de barras criado: Top 5 Funcionários - Volume de Vendas
+2025-08-27 17:07:11,744 - save_data_pdf_report - INFO - Gerando seção: Vendas por período
+2025-08-27 17:07:11,746 - save_data_pdf_report - INFO - Criando gráfico de linha para vendas por período
+2025-08-27 17:07:11,817 - save_data_pdf_report - INFO - Gráfico de linha criado: Evolução de Vendas por Período
+2025-08-27 17:07:12,884 - save_data_pdf_report - INFO - Relatório PDF gerado com sucesso: pdf-files/relatorio-final.pdf
+2025-08-27 17:07:12,886 - save_data_pdf_report - INFO - Conexão com banco de dados fechada
+2025-08-27 17:07:12,886 - save_data_pdf_report - INFO - Geração do relatório PDF concluída com sucesso
