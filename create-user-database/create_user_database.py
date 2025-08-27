@@ -124,8 +124,8 @@ def create_database(cur: cursor, dbname: str, owner: str, logger: logging.Logger
 
 def create_user_db() -> None:
     """
-    Cria o usuário 'bus2' com senha 'testebus2', concede permissão para criar banco de dados
-    e cria o banco de dados 'bus2' no PostgreSQL.
+    Cria o usuário 'visitante' com senha 'teste', concede permissão para criar banco de dados
+    e cria o banco de dados 'comercial' no PostgreSQL.
     
     Raises:
         psycopg2.Error: Se houver erro na operação de banco de dados
@@ -135,9 +135,9 @@ def create_user_db() -> None:
     logger.info("Iniciando criação de usuário e banco de dados")
     
     # Configurações
-    usuario = "bus2"
-    senha = "testebus2"
-    database = "bus2"
+    usuario = "visitante"
+    senha = "teste"
+    database = "comercial"
     
     try:
         # Estabelecer conexão como superusuário

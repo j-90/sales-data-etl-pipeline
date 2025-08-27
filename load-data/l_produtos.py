@@ -44,9 +44,9 @@ def get_database_connection() -> psycopg2.extensions.connection:
     connection_params = {
         'host': 'localhost',
         'port': 5432,
-        'database': 'bus2',
-        'user': 'bus2',
-        'password': 'testebus2'
+        'database': 'comercial',
+        'user': 'visitante',
+        'password': 'teste'
     }
     
     return psycopg2.connect(**connection_params)

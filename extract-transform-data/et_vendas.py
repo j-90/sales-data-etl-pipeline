@@ -44,9 +44,9 @@ def get_database_connection() -> psycopg2.extensions.connection:
     connection_params = {
         'host': 'localhost',
         'port': 5432,
-        'database': 'bus2',
-        'user': 'bus2',
-        'password': 'testebus2'
+        'database': 'comercial',
+        'user': 'visitante',
+        'password': 'teste'
     }
     
     return psycopg2.connect(**connection_params)
@@ -64,7 +64,7 @@ def fetch_produtos_from_db() -> pd.DataFrame:
     """
     try:
         # Usar SQLAlchemy para evitar avisos do pandas
-        connection_string = "postgresql://bus2:testebus2@localhost:5432/bus2"
+        connection_string = "postgresql://visitante:teste@localhost:5432/comercial"
         engine = create_engine(connection_string)
         
         query = "SELECT id_produto, nome, preco, categoria FROM produtos"
