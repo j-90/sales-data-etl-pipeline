@@ -76,7 +76,9 @@ def create_user(cur: cursor, username: str, password: str, logger: logging.Logge
         password: Senha do usuário
         logger: Logger para registrar informações
     """
-    cur.execute("CREATE USER %s WITH PASSWORD %s;", (username, password))
+    # Construir query dinamicamente para o nome do usuário
+    query = f"CREATE USER {username} WITH PASSWORD %s;"
+    cur.execute(query, (password,))
     logger.info(f"Usuário '{username}' criado com sucesso.")
 
 

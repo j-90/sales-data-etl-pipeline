@@ -1,20 +1,20 @@
-2025-08-26 17:13:25,884 - INFO - Iniciando pipeline ETL...
-2025-08-26 17:13:25,884 - INFO - 1 - Executando create_user_db
-2025-08-26 17:13:25,941 - INFO - Executando create_user_db concluído em 0.06s
-2025-08-26 17:13:25,941 - INFO - 2 - Executando tratamento de produtos (ET)
-2025-08-26 17:13:26,279 - INFO - Executando tratamento de produtos (ET) concluído em 0.34s | Registros: 200 | Colunas: 4
-2025-08-26 17:13:26,279 - INFO - 3 - Executando carga de produtos (LOAD)
-2025-08-26 17:13:26,360 - INFO - Executando carga de produtos (LOAD) concluído em 0.08s
-2025-08-26 17:13:26,360 - INFO - 4 - Executando tratamento de vendas (ET)
-2025-08-26 17:13:26,668 - INFO - Executando tratamento de vendas (ET) concluído em 0.31s | Registros: 1000 | Colunas: 9
-2025-08-26 17:13:26,672 - INFO - 5 - Executando carga de vendas (LOAD)
-2025-08-26 17:13:26,937 - INFO - Executando carga de vendas (LOAD) concluído em 0.27s
-2025-08-26 17:13:26,937 - INFO - 6 - Executando tratamento de empregados (ET)
-2025-08-26 17:13:26,958 - INFO - Executando tratamento de empregados (ET) concluído em 0.02s | Registros: 100 | Colunas: 7
-2025-08-26 17:13:26,958 - INFO - 7 - Executando carga de empregados (LOAD)
-2025-08-26 17:13:27,022 - INFO - Executando carga de empregados (LOAD) concluído em 0.06s
-2025-08-26 17:13:27,022 - INFO - 8 - Executando save_data_parquet
-2025-08-26 17:13:27,213 - INFO - Executando save_data_parquet concluído em 0.19s
-2025-08-26 17:13:27,213 - INFO - 9 - Executando save_data_pdf_report
-2025-08-26 17:13:29,535 - INFO - Executando save_data_pdf_report concluído em 2.32s
-2025-08-26 17:13:29,535 - INFO - Pipeline ETL finalizado com sucesso em 3.65s.
+2025-08-27 17:02:44,984 - INFO - Iniciando pipeline ETL...
+2025-08-27 17:02:44,984 - INFO - 1 - Executando create_user_db
+2025-08-27 17:02:46,775 - INFO - Executando create_user_db concluído em 1.79s
+2025-08-27 17:02:46,775 - INFO - 2 - Executando tratamento de produtos (ET)
+2025-08-27 17:02:58,414 - INFO - Executando tratamento de produtos (ET) concluído em 11.64s | Registros: 200 | Colunas: 4
+2025-08-27 17:02:58,414 - INFO - 3 - Executando carga de produtos (LOAD)
+2025-08-27 17:02:58,757 - INFO - Executando carga de produtos (LOAD) concluído em 0.34s
+2025-08-27 17:02:58,757 - INFO - 4 - Executando tratamento de vendas (ET)
+2025-08-27 17:02:59,920 - INFO - Executando tratamento de vendas (ET) concluído em 1.16s | Registros: 1000 | Colunas: 9
+2025-08-27 17:02:59,920 - INFO - 5 - Executando carga de vendas (LOAD)
+2025-08-27 17:03:00,143 - INFO - Executando carga de vendas (LOAD) concluído em 0.22s
+2025-08-27 17:03:00,143 - INFO - 6 - Executando tratamento de empregados (ET)
+2025-08-27 17:03:00,166 - INFO - Executando tratamento de empregados (ET) concluído em 0.02s | Registros: 100 | Colunas: 7
+2025-08-27 17:03:00,166 - INFO - 7 - Executando carga de empregados (LOAD)
+2025-08-27 17:03:00,236 - INFO - Executando carga de empregados (LOAD) concluído em 0.07s
+2025-08-27 17:03:00,236 - INFO - 8 - Executando save_data_parquet
+2025-08-27 17:03:01,100 - INFO - Executando save_data_parquet concluído em 0.86s
+2025-08-27 17:03:01,100 - INFO - 9 - Executando save_data_pdf_report
+2025-08-27 17:03:05,279 - INFO - Executando save_data_pdf_report concluído em 4.18s
+2025-08-27 17:03:05,279 - INFO - Pipeline ETL finalizado com sucesso em 20.30s.

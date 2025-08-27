@@ -1,16 +1,16 @@
-2025-08-26 17:13:27,022 - save_data_parquet - INFO - Iniciando processo de salvamento em Parquet
-2025-08-26 17:13:27,022 - save_data_parquet - INFO - Diretório 'dados_corrigidos' criado.
-2025-08-26 17:13:27,024 - save_data_parquet - INFO - Conexão com banco de dados estabelecida
-2025-08-26 17:13:27,162 - save_data_parquet - INFO - Dados de produtos lidos do banco. Total de registros: 200
-2025-08-26 17:13:27,174 - save_data_parquet - INFO - Dados de empregados lidos do banco. Total de registros: 100
-2025-08-26 17:13:27,191 - save_data_parquet - INFO - Dados de vendas lidos do banco. Total de registros: 1000
-2025-08-26 17:13:27,207 - save_data_parquet - INFO - Arquivo parquet-files/produtos.parquet salvo com sucesso (200 registros)
-2025-08-26 17:13:27,208 - save_data_parquet - INFO - Arquivo parquet-files/empregados.parquet salvo com sucesso (100 registros)
-2025-08-26 17:13:27,213 - save_data_parquet - INFO - Arquivo parquet-files/resumo-vendas.parquet salvo com sucesso (1000 registros)
-2025-08-26 17:13:27,213 - save_data_parquet - INFO - 📊 RESUMO DOS DADOS PROCESSADOS:
-2025-08-26 17:13:27,213 - save_data_parquet - INFO -   📋 Produtos: 200 registros | 4 colunas
-2025-08-26 17:13:27,213 - save_data_parquet - INFO -   📋 Empregados: 100 registros | 4 colunas
-2025-08-26 17:13:27,213 - save_data_parquet - INFO -   📋 Vendas: 1,000 registros | 7 colunas
-2025-08-26 17:13:27,213 - save_data_parquet - INFO -   📈 Total geral: 1,300 registros
-2025-08-26 17:13:27,213 - save_data_parquet - INFO - Conexão com banco de dados fechada
-2025-08-26 17:13:27,213 - save_data_parquet - INFO - Processo de salvamento em Parquet concluído com sucesso
+2025-08-27 17:03:00,240 - save_data_parquet - INFO - Iniciando processo de salvamento em Parquet
+2025-08-27 17:03:00,240 - save_data_parquet - INFO - Diretório 'dados_corrigidos' criado.
+2025-08-27 17:03:00,240 - save_data_parquet - INFO - Conexão com banco de dados estabelecida
+2025-08-27 17:03:00,276 - save_data_parquet - INFO - Dados de produtos lidos do banco. Total de registros: 200
+2025-08-27 17:03:00,286 - save_data_parquet - INFO - Dados de empregados lidos do banco. Total de registros: 100
+2025-08-27 17:03:00,304 - save_data_parquet - INFO - Dados de vendas lidos do banco. Total de registros: 1000
+2025-08-27 17:03:01,095 - save_data_parquet - INFO - Arquivo parquet-files/produtos.parquet salvo com sucesso (200 registros)
+2025-08-27 17:03:01,095 - save_data_parquet - INFO - Arquivo parquet-files/empregados.parquet salvo com sucesso (100 registros)
+2025-08-27 17:03:01,100 - save_data_parquet - INFO - Arquivo parquet-files/resumo-vendas.parquet salvo com sucesso (1000 registros)
+2025-08-27 17:03:01,100 - save_data_parquet - INFO - 📊 RESUMO DOS DADOS PROCESSADOS:
+2025-08-27 17:03:01,100 - save_data_parquet - INFO -   📋 Produtos: 200 registros | 4 colunas
+2025-08-27 17:03:01,100 - save_data_parquet - INFO -   📋 Empregados: 100 registros | 4 colunas
+2025-08-27 17:03:01,100 - save_data_parquet - INFO -   📋 Vendas: 1,000 registros | 7 colunas
+2025-08-27 17:03:01,100 - save_data_parquet - INFO -   📈 Total geral: 1,300 registros
+2025-08-27 17:03:01,100 - save_data_parquet - INFO - Conexão com banco de dados fechada
+2025-08-27 17:03:01,100 - save_data_parquet - INFO - Processo de salvamento em Parquet concluído com sucesso

@@ -1,7 +1,7 @@
-2025-08-26 17:13:26,672 - loading_vendas - INFO - Iniciando carregamento de vendas no PostgreSQL
-2025-08-26 17:13:26,672 - loading_vendas - INFO - DataFrame validado. Total de registros: 1000
-2025-08-26 17:13:26,719 - loading_vendas - INFO - Conexão com banco de dados estabelecida
-2025-08-26 17:13:26,729 - loading_vendas - INFO - Tabela 'vendas' criada/recriada
-2025-08-26 17:13:26,937 - loading_vendas - INFO - Dados inseridos com sucesso: 1000 registros
-2025-08-26 17:13:26,937 - loading_vendas - INFO - Conexão com banco de dados fechada
-2025-08-26 17:13:26,937 - loading_vendas - INFO - Carregamento de vendas concluído com sucesso
+2025-08-27 17:02:59,924 - loading_vendas - INFO - Iniciando carregamento de vendas no PostgreSQL
+2025-08-27 17:02:59,924 - loading_vendas - INFO - DataFrame validado. Total de registros: 1000
+2025-08-27 17:02:59,953 - loading_vendas - INFO - Conexão com banco de dados estabelecida
+2025-08-27 17:02:59,962 - loading_vendas - INFO - Tabela 'vendas' criada/recriada
+2025-08-27 17:03:00,143 - loading_vendas - INFO - Dados inseridos com sucesso: 1000 registros
+2025-08-27 17:03:00,143 - loading_vendas - INFO - Conexão com banco de dados fechada
+2025-08-27 17:03:00,143 - loading_vendas - INFO - Carregamento de vendas concluído com sucesso
